@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PiMAPS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="o_programme">О программе</string>
+    <string name="napisat">Написать автору</string>
+    <string name="zero">Подвал</string>
+    <string name="one">Первый этаж</string>
+    <string name="two">Второй этаж</string>
+    <string name="three">Третий этаж</string>
+
+</resources>
